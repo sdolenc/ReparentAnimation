@@ -1,0 +1,7 @@
+http://velocityjs.org/
+https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
+https://developers.google.com/web/fundamentals/design-and-ui/animations/
+https://isotope.metafizzy.co/v1/demos/adding-items.html
+https://aerotwist.com/blog/flip-your-animations/
+https://birjolaxew.github.io/flippy.js/
+https://github.com/chenglou/react-motion
